@@ -1,4 +1,4 @@
-<img src="./image.jpg" title="STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용 I/O 입출력부터 USB, TCP/IP 통신까지 개정판" width=270 align=left></img>
+<img src="image.jpg" title="STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용 I/O 입출력부터 USB, TCP/IP 통신까지 개정판" width=270 align=left></img>
 # 《STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용》
 ## I/O 입출력부터 USB, TCP/IP 통신까지 개정판
 &nbsp; * 차동혁 , 김재일 , 김상민 지음 | 홍릉과학출판사 <br>
@@ -9,7 +9,7 @@
 </pre>
 
 
-### 머리말 
+### ★ 머리말 ★ 
 가장 기본적이며, 가장 많이 사용되고 있는 ST(STMicroElectronics)사의 MCU인 STM32F103과 STM32F429을 대상으로 하여 GPIO, 인터럽트, 타이머, ADC, DAC, UART 등의 주변장치는 물론, USB와 이더넷 포트를 이용한 통신에 대한 내용을 다룬다. 특히, USB 및 이더넷 포트의 내장이 타 MCU에 비해 Cortex-M의 뛰어난
 장점임을 감안할 때, 이를 이용한 통신에 대한 예제는 독자들에게 아주 유용할 것으로 생각된다.
 
