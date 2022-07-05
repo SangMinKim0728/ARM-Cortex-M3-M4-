@@ -1,7 +1,7 @@
-<img src="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/blob/main/images/%EC%9E%85%EC%B2%B4%20%ED%91%9C%EC%A7%802.png?raw=true" title="STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용 I/O 입출력부터 USB, TCP/IP 통신까지 개정판" width=270 align=left></img>
+<img src="(https://user-images.githubusercontent.com/108709679/177262165-e8e56f8f-8ad4-427b-acc9-9b31490e48b9.jpg" title="STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용 I/O 입출력부터 USB, TCP/IP 통신까지 개정판" width=270 align=left></img>
 
-# 《머신러닝·딥러닝 문제해결 전략》
-## 캐글 수상작 리팩터링으로 배우는 문제해결 프로세스와 전략
+# 《STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용》
+## I/O 입출력부터 USB, TCP/IP 통신까지 개정판
 &nbsp; * 차동혁 , 김재일 , 김상민 지음 | 홍릉과학출판사 <br>
 &nbsp; * 39,000원 <br>
 &nbsp; * 구매처 : <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156005353&orderClick=LIZ&Kc=">교보문고</a>
