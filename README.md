@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/108709679/177264238-e643c2c3-17a4-4821-8c2f-77f1cc67e7b5.jpg" width=270 align=left></img>
+<img src="https://user-images.githubusercontent.com/108709679/177264238-e643c2c3-17a4-4821-8c2f-77f1cc67e7b5.jpg" width=240 align=left></img>
 # 《STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용》
 ## I/O 입출력부터 USB, TCP/IP 통신까지 개정판
 &nbsp; * 차동혁 , 김재일 , 김상민 지음 | 홍릉과학출판사 <br>
