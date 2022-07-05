@@ -1,22 +1,19 @@
-<img src="https://user-images.githubusercontent.com/108709679/177264238-e643c2c3-17a4-4821-8c2f-77f1cc67e7b5.jpg" width=240 align=left></img>
-# 《STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용》
-## I/O 입출력부터 USB, TCP/IP 통신까지 개정판
-&nbsp; * 차동혁 , 김재일 , 김상민 지음 | 홍릉과학출판사 <br>
-&nbsp; * 39,000원 <br>
-&nbsp; * 구매처 : <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156005353&orderClick=LIZ&Kc=">교보문고</a>
-
-
-
+<img src="https://user-images.githubusercontent.com/108709679/177264238-e643c2c3-17a4-4821-8c2f-77f1cc67e7b5.jpg" title="STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용" width=240 align=left></img>
 
 <pre>
-</pre>
- 
- 
- 
+</pre> 
+## 《STM32F 시리즈를 이용한 ARM Cortex-M3/M4 구조와 응용》
+### &nbsp;&nbsp; ARM Cortex-M3/M4 구조와 응용의 기초적이고 전반적인 내용
+&nbsp; * 차동혁 , 김재일 , 김상민 지음 <br>
+&nbsp; * 홍릉과학출판사 <br>
+&nbsp; * 39,000원 <br>
+&nbsp; * 구매처 : <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156005353&orderClick=LIZ&Kc=">교보문고</a>
+<pre>
+</pre> 
 
-### __★ 머리말 ★__ 
-가장 기본적이며, 가장 많이 사용되고 있는 ST(STMicroElectronics)사의 MCU인 STM32F103과 STM32F429을 대상으로 하여 GPIO, 인터럽트, 타이머, ADC, DAC, UART 등의 주변장치는 물론, USB와 이더넷 포트를 이용한 통신에 대한 내용을 다룬다. 특히, USB 및 이더넷 포트의 내장이 타 MCU에 비해 Cortex-M의 뛰어난
-장점임을 감안할 때, 이를 이용한 통신에 대한 예제는 독자들에게 아주 유용할 것으로 생각된다.
+* * *
+## 소개
+가장 기본적이며, 가장 많이 사용되고 있는 ST(STMicroElectronics)사의 MCU 대상으로 GPIO, EXTI, TIM, ADC, DAC, UART, USB, Ethernet에 대한 내용을 다룬다. 특히, USB 및 이더넷 포트의 내장이 타 MCU에 비해 Cortex-M의 뛰어난 장점임을 감안할 때, 이를 이용한 통신에 대한 예제는 독자들에게 아주 유용할 것으로 생각된다.
 
 __1. Cortex-M4용 실습 보드 및 예제 프로그램 추가__
 
@@ -25,19 +22,16 @@ __2. ST사의 Nucleo Board를 이용한 실습 보드__
 __3. 하드웨어 대한 깊은 지식이 없어도 이해 가능한 소스 코드__
 
 
-
-
 * * *
-
 ## 예제 다운로드 및 실행 안내
-본 교재를 이용한 학습에 조금이라도 도움이 되고자 네이버 카페 (카페명 : CortexWorld,http://cafe.naver.com/CortexWorld)에 학습에 필요한 여러 가지 자료를 실어두었다. 여기에 가면 바로 실행이 가능한 예제 소스파일도 다운받을 수 있으며, 예제 실행과 관련된 동영상
-등도 볼 수 있다.
+본 교재를 이용한 학습에 조금이라도 도움이 되고자 네이버 카페 (카페명 : CortexWorld,http://cafe.naver.com/CortexWorld)에 학습에 필요한 여러 가지 자료를 실어두었다. 여기에 가면 바로 실행이 가능한 예제 소스파일도 다운받을 수 있으며, 예제 실행과 관련된 동영상 등도 볼 수 있다.
 
 이 책에서 소개하는 모든 예제 프로그램은 인터넷을 통해 다운받을 수 있습니다. 아래의 사이트를 방문하시면 모든 예제 프로그램에 대한 소스코드가 포함된 파일이 제공됩니다. 이 사이트에서는 실습보드 설정방법 및 예제 실행방법에 대한 참고 동영상도 함께 제공됩니다.
 예제 프로그램의 설치 및 실행에 관한 내용은 이 책의 <4장, 실습보드를 이용한 프로그램 작성 방법>의 [4.1절-4.3절]에 자세히 나와있으니 참고하시기 바랍니다.
 이 책의 모든 예제는 PC의 OS가 Windows 7에서 작성되고 실행되었습니다. 그리고 Windows 10에서도 예제 실행이 정상적으로 되는 것을 확인하였습니다. 그러나 이 교재에 사용한 모든 소프트웨어는 Windows 7용입니다. 따라서 Windows 7의 사용을 권장합니다.
  * [네이버 카페] (https://cafe.naver.com/cortexworld)
 
+* * *
 ## 목차
 
 * **1부. ARM Cortex-M3 프로세서**
@@ -107,5 +101,4 @@ __3. 하드웨어 대한 깊은 지식이 없어도 이해 가능한 소스 코�
     * 13.2 STM32F107의 이더넷 구성 및 기능
     * 13.3 LwIP : 임베디드 시스템용 TCP/IP 스택
 	* 13.4 Ethernet 응용 예제
-
-
+* * *
